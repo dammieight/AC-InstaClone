@@ -12,4 +12,5 @@
     <string name="profile_fragment">Profile fragment</string>
     <string name="share_picture_fragment">Share picture fragment</string>
     <string name="user_fragment">User fragment</string>
+    <string name="loading_users_please_wait">Loading Users... Please Wait</string>
 </resources>
