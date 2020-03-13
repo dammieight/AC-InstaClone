@@ -132,6 +132,7 @@ public class UsersTab extends Fragment implements AdapterView.OnItemClickListene
                                         }
                                     }
                             )
+
                             .show();
 
 
