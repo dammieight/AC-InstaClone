@@ -36,6 +36,9 @@ dependencies {
 
     //ViewPager Dependency
     implementation "androidx.viewpager2:viewpager2:1.0.0"
+
+    //Pretty Dialog
+    implementation 'com.github.mjn1369:prettydialog:1.0.4'
 }
 
 repositories {
