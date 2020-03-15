@@ -13,4 +13,10 @@
     <string name="share_picture_fragment">Share picture fragment</string>
     <string name="user_fragment">User fragment</string>
     <string name="loading_users_please_wait">Loading Users... Please Wait</string>
+    <string name="please_enter_your_bio">Please enter your bio...</string>
+    <string name="please_enter_your_profession">Please enter your profession...</string>
+    <string name="please_enter_a_profile_name">Please enter a profile name...</string>
+    <string name="please_enter_your_favorite_sport">Please enter your favorite sport...</string>
+    <string name="please_enter_your_hobbies">Please enter your hobbies...</string>
+    <string name="update_info">Update Info</string>
 </resources>

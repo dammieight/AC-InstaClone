@@ -39,6 +39,9 @@ dependencies {
 
     //Pretty Dialog
     implementation 'com.github.mjn1369:prettydialog:1.0.4'
+
+    //Awesome InputText
+    implementation "ss.anoop:awesome-textinput-layout:1.0.2"
 }
 
 repositories {
